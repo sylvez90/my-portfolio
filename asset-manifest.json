@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.71d9726b.css",
+    "main.js": "/static/js/main.479d727a.js",
+    "static/media/port2.png": "/static/media/port2.5bce8c26516757fb006a.png",
+    "static/media/port5.png": "/static/media/port5.01c34340b471deba1e2e.png",
+    "static/media/port6.png": "/static/media/port6.c5e48334fe9c8113bbb8.png",
+    "static/media/ME.jpg": "/static/media/ME.adae704b85e7e9472d3f.jpg",
+    "static/media/port3.png": "/static/media/port3.fe1011b6eb2940b5ccd8.png",
+    "static/media/port4.png": "/static/media/port4.debeb50d59a85eaa0c42.png",
+    "static/media/team2.jpg": "/static/media/team2.e5a8926499a4516de37a.jpg",
+    "static/media/port1.png": "/static/media/port1.6d5cd59c4f11a14215af.png",
+    "static/media/team5.jpg": "/static/media/team5.86d611f66c79e32e4599.jpg",
+    "static/media/SLY.jpg": "/static/media/SLY.6d313fa44689a84413ec.jpg",
+    "static/media/Maduakor-Sylvester_Resume.docx": "/static/media/Maduakor-Sylvester_Resume.6ae1d0119f317d443c08.docx",
+    "index.html": "/index.html",
+    "main.71d9726b.css.map": "/static/css/main.71d9726b.css.map",
+    "main.479d727a.js.map": "/static/js/main.479d727a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.71d9726b.css",
+    "static/js/main.479d727a.js"
+  ]
+}
